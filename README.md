@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devjmv
 - 👀 I’m interested in php
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate.
 - 📫 waznordico@gmail.com
 
