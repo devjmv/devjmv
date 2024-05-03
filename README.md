@@ -2,7 +2,7 @@
 - 👀 I’m interested in php
 - 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate.
-- 📫 waznordico@gmail.com
+- 📫 javier161890@gmail.com
 
 <!---
 devjmv/devjmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
