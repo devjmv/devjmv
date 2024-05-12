@@ -3,9 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/javier-martinez-vazquez-5528811b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
