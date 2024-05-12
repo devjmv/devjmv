@@ -14,5 +14,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjmv&show_icons=true&locale=en&layout=compact" alt="devjmv" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjmv&" alt="devjmv" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/xcv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xcv" /></a><a href="https://ko-fi.com/xcv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xcv" /></a></p>
+<h3 align="left">Support:</h3><a href="https://ko-fi.com/devjmv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xcv" /></a></p>
