@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Javier Martinez (devjmv)</h1>
 <h3 align="center">Graduado de ingeniería informática, programador Fullstack, editor de fotos profesional. Con amplios conocimientos en la creación, modificación y mantenimiento de sitios web.
 Me gusta aplicar mis conocimientos para ayudar a las personas en crear el sitio web para su negocio, así como enseñarles a hacerlo.</h3>
@@ -11,9 +13,6 @@ Me gusta aplicar mis conocimientos para ayudar a las personas en crear el sitio 
 <p align="left">
 <a href="www.linkedin.com/in/javier-martinez-vazquez-5528811b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
 </p>
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjmv&show_icons=true&locale=en&layout=compact" alt="devjmv" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjmv&" alt="devjmv" /></p>
-
 <h3 align="left">Support:</h3><a href="https://ko-fi.com/devjmv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xcv" /></a></p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
