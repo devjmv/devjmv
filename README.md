@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Javier Martinez (devjmv)</h1>
-<h3 align="center">Graduado de ingeniería informática, programador Fullstack, editor de fotos profesional. Con amplios conocimientos en la creación, modificación y mantenimiento de sitios web.
-Me gusta aplicar mis conocimientos para ayudar a las personas en crear el sitio web para su negocio, así como enseñarles a hacerlo.</h3>
+<h3 align="center">Computer engineering, Fullstack programmer, professional photo editor. With extensive knowledge in creating, modifying and maintaining websites. I like to apply my knowledge to help people in creating the website for their company.</h3>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
